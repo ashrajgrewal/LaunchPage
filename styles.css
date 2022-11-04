@@ -6,3 +6,9 @@
     background-color: mintcream;
     color: black;
   }
+.hero-background-img {
+    background-image: url("amgphoto.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
