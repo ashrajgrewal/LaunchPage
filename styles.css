@@ -2,3 +2,7 @@
     padding: 1rem;
     background-color: pink;
   }
+.btn-primary:hover {
+    background-color: mintcream;
+    color: black;
+  }
